@@ -56,7 +56,7 @@ clean_old_logs()
 
 # 主逻辑开始
 try:
-    driver.get("https://1pwepte89xyezxxcw2vspk.streamlit.app/")
+    driver.get("https://6ztpwzgr3e4bp9puv6lmsx.streamlit.app/")
     print("已打开网页，等待页面加载 30 秒...")
     time.sleep(30)  # 初次加载等待
 
